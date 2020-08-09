@@ -272,6 +272,35 @@
             "conf_cem_reais" : 0,
             "conf_duzentos_reais" : 0,
             "conf_valor_total" : 0.0
+        },
+        {
+            "id" : 10,
+            "dep_parcial_adhoc_id" : 250,
+            "sequencia_atm" : 10,
+            "mensagem_sis" : "CHECA_DEPOSITO",
+            "mensagem_atm" : "NOVO_SALDO",
+            "dep_um_cent" : 0,
+            "dep_cinco_cent" : 0,
+            "dep_dez_cent" : 0,
+            "dep_vinte_cinco_cent" : 0,
+            "dep_cinquenta_cent" : 1,
+            "dep_um_real" : 1,
+            "dep_dois_reais" : 2,
+            "dep_cinco_reais" : 4,
+            "dep_dez_reais" : 6,
+            "dep_vinte_reais" : 8,
+            "dep_cinquenta_reais" : 10,
+            "dep_cem_reais" : 12,
+            "dep_duzentos_reais" : 1,
+            "dep_valor_total" : 1695.75,
+            "conf_dois_reais" : 0,
+            "conf_cinco_reais" : 0,
+            "conf_dez_reais" : 0,
+            "conf_vinte_reais" : 0,
+            "conf_cinquenta_reais" : 0,
+            "conf_cem_reais" : 0,
+            "conf_duzentos_reais" : 0,
+            "conf_valor_total" : 0.0
         }
     ]
 }
