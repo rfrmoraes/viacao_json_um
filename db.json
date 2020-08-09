@@ -1,8 +1,21 @@
 {
   "modo_deposito": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 250, "sequencia_atm" : 1, 
+      "mensagem_atm" : "MODO_DEPOSITO", "mensagem_sis" : "MODO_DEPOSITO_OK", 
+      "dep_um_cent" : 0,
+      "dep_cinco_cent" : 0,
+      "dep_dez_cent" : 0,
+      "dep_vinte_cinco_cent" : 0,
+      "dep_cinquenta_cent" : 0,
+      "dep_um_real" : 0,
+      "dep_dois_reais" : 0,
+      "dep_cinco_reais" : 0,
+      "dep_dez_reais" : 0,
+      "dep_vinte_reais" : 0,
+      "dep_cinquenta_reais" : 0,
+      "dep_cem_reais" : 0,
+      "dep_valor_total" : 0.0
+    }
   ],
   "comments": [
     { "id": 250, "sequencia_atm" : 1, "mensagem_atm" : "MODO_DEPOSITO" },
