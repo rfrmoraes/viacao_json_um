@@ -63,7 +63,7 @@
             "dep_parcial_adhoc_id" : 250,
             "sequencia_atm" : 3,
             "mensagem_sis" : "FINALIZAR_DEPOSITO",
-            "mensagem_atm" : "DEPOSITO_FINALIZADO",
+            "mensagem_atm" : "SALDO_FINAL",
             "dep_um_cent" : 0,
             "dep_cinco_cent" : 0,
             "dep_dez_cent" : 0,
