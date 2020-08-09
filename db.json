@@ -14,7 +14,20 @@
       "dep_vinte_reais" : 0,
       "dep_cinquenta_reais" : 0,
       "dep_cem_reais" : 0,
-      "dep_valor_total" : 0.0
+      "dep_valor_total" : 0.5,
+      "conf_um_cent" : 0,
+      "conf_cinco_cent" : 0,
+      "conf_dez_cent" : 0,
+      "conf_vinte_cinco_cent" : 0,
+      "conf_cinquenta_cent" : 0,
+      "conf_um_real" : 0,
+      "conf_dois_reais" : 0,
+      "conf_cinco_reais" : 0,
+      "conf_dez_reais" : 0,
+      "conf_vinte_reais" : 0,
+      "conf_cinquenta_reais" : 0,
+      "conf_cem_reais" : 0,
+      "conf_valor_total" : 0.0
     }
   ],
   "comments": [
