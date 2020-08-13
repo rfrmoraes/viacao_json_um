@@ -2,6 +2,7 @@
     "modo_deposito" : [
         {
             "id" : 1,
+            "numero_cofre" : 2020,
             "dep_parcial_adhoc_id" : 250,
             "sequencia_atm" : 2,
             "mensagem_sis" : "MODO_DEPOSITO",
