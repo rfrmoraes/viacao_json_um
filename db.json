@@ -2,8 +2,9 @@
     "modo_deposito" : [
         {
             "id" : 1,
-            "numero_cofre" : 2020,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 2,
             "mensagem_sis" : "MODO_DEPOSITO",
             "mensagem_atm" : "MODO_DEPOSITO_OK",
@@ -33,6 +34,8 @@
         {
             "id" : 2,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 2,
             "mensagem_sis" : "MODO_DEPOSITO",
             "mensagem_atm" : "SUPERVISOR",
@@ -62,6 +65,8 @@
         {
             "id" : 3,
             "dep_parcial_adhoc_id" : 250,
+            "numero_cofre" : 2020,
+            "tipo_deposito" : "",
             "sequencia_atm" : 3,
             "mensagem_sis" : "FINALIZAR_DEPOSITO",
             "mensagem_atm" : "SALDO_FINAL",
