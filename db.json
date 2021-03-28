@@ -4,7 +4,7 @@
             "usuario" : "1",
             "empresa_servico" : "2",
             "dep_parcial_adhoc_id" : 250,
-            "numero_cofre" : 2020,
+            "numero_cofre" : 123456,
             "tipo_deposito" : "",
             "sequencia_atm" : 2,
             "mensagem_sis" : "NR_COFRE",
