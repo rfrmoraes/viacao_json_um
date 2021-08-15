@@ -75,7 +75,7 @@
 			}
 		]
 	},
-    "imp_saldo" = {
+    "imp_saldo" : {
 	"mensagem_atm":"IMP_SALDO_OK",
 	"numero_cofre":"1206"
     },
