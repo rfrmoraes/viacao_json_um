@@ -75,10 +75,18 @@
 			}
 		]
 	},
-    "imp_saldo" : {
-	"mensagem_atm":"IMP_SALDO_OK",
-	"numero_cofre":"1206"
-    },
+    "imp_saldo" : [
+	{
+	    "id" = 12345678000110,
+	    "mensagem_atm":"IMP_SALDO_OK",
+	    "numero_cofre":"1206"
+        },
+	{
+	    "id" = 23456780001101,
+	    "mensagem_atm":"IMP_SALDO_OK",
+	    "numero_cofre":"2015"
+	}
+    ]
     "modo_deposito" : [
         {
             "id" : 1,
