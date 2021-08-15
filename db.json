@@ -77,12 +77,12 @@
 	},
     "imp_saldo" : [
 	{
-	    "id" = 1234,
+	    "id" : 1234,
 	    "mensagem_atm":"IMP_SALDO_OK",
 	    "numero_cofre":"1206"
         },
 	{
-	    "id" = 4567,
+	    "id" : 4567,
 	    "mensagem_atm":"IMP_SALDO_OK",
 	    "numero_cofre":"2015"
 	}
