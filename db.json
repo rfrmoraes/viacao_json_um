@@ -86,7 +86,7 @@
 	    "mensagem_atm":"IMP_SALDO_OK",
 	    "numero_cofre":"2015"
 	}
-    ]
+    ],
     "modo_deposito" : [
         {
             "id" : 1,
