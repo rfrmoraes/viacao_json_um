@@ -33,11 +33,11 @@
         "conf_valor_total" : 0.0
     },
     "saldo_cofre" : {
-        "data":"YYYYMMDD",
-        "hora":"HHMMSS",
+        "data":"20210817",
+        "hora":"202305",
         "qtd_pendentes" : 0,
 		"versao":"0.0.1",
-		"mensagem_atm":"SALDO_COFRE",
+		"mensagem_atm":"COLETA_COFRE",
 		"numero_cofre":"0",
 		"valores":[
 			{
